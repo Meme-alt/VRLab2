@@ -1,0 +1,1 @@
+Am folosit AI pentru intelegerea UI-ului de la blender si pentru rezolvarea unor bug-uri.
